@@ -1,6 +1,7 @@
 # IBM-Project-3095-1658500945
 Analytics for Hospitals' Health-Care Data
-![image](https://user-images.githubusercontent.com/114097085/202740553-0c076c0d-b7ca-462c-a394-14d281e2a202.png)
+![image](https://user-images.githubusercontent.com/114097085/202740927-695abe99-4f33-4cfd-bc56-4af5a917c8c7.png)
+
 
 
 Team id: PNT2022MID01016
